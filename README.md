@@ -19,3 +19,18 @@ Each project is simple, focused, and designed to demonstrate a specific concept 
 ## 📁 Repository Structure
 
 ###  1 :  CAFE MANAGEMENT SYSTEM
+
+
+
+## 📬 Contact
+
+**Pankaj Yadav**  
+📧 pankajyadav2021ii@gmail.com  
+📍 Lucknow, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-yadav-590087360/) | [GitHub](https://github.com/kunjyadav123/python_mini_projects)
+
+---
+
+## ⭐ If you find this helpful...
+
+Give the repo a ⭐ and follow me on GitHub for more content on Data Science and Machine Learning!
